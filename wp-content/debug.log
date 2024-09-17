@@ -1,0 +1,8 @@
+[14-Sep-2024 12:53:25 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\2-Projets-WordPress\OpenClassrooms-Bricotips\wp-content\themes\bricotips\functions.php on line 164
+[14-Sep-2024 12:55:46 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\2-Projets-WordPress\OpenClassrooms-Bricotips\wp-content\themes\bricotips\functions.php on line 164
+[16-Sep-2024 10:34:28 UTC] Automatic updates starting...
+[16-Sep-2024 10:34:29 UTC] Automatic updates complete.
+[16-Sep-2024 11:00:36 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\2-Projets-WordPress\OpenClassrooms-Bricotips\wp-content\plugins\bricotips-login\includes\class-bricotips-login.php on line 161
+[16-Sep-2024 11:05:33 UTC] Automatic updates starting...
+[16-Sep-2024 11:05:33 UTC] Automatic updates complete.
+[16-Sep-2024 11:07:01 UTC] PHP Warning:  Undefined property: Bricotips_Top_Contact_Public::$emai in C:\xampp\htdocs\2-Projets-WordPress\OpenClassrooms-Bricotips\wp-content\plugins\bricotips-top-contact\public\class-bricotips-top-contact-public.php on line 111
